@@ -1,0 +1,40 @@
+seccion_1:
+¿Cuántos valores únicos tiene la columna stateProvince?
+A) 17 C
+B) 18
+
+¿Cuántas filas tiene el dataset?
+A) 3500
+B) 2019 C
+
+¿Cuántas columnas tiene el dataset?
+A) 19 C
+B) 22
+
+
+seccion_2:
+¿Cuál es la especie con menor porcentaje de aparición?
+A) Leopardus pajonales C
+B) Puma concolor
+
+¿Cuál es la especie con más avistamientos?
+A) Panthera onca
+B) Puma concolor C
+
+¿Cuál es la tercera provincia con más avistamientos?
+A) Provincia de Corrientes C
+B) Provincia de Buenos Aires
+
+
+seccion_3:
+¿Cuántas provincias aparecen en el menú del mapa de pumas?
+A) 15
+B) 17 C
+
+Si elegís Tucumán en el menú, ¿cuántos puntos rojos se ven en el mapa?
+A) 1 C
+B) 5
+
+¿Qué provincia muestra más puntos rojos en el mapa?
+A) Chubut
+B) Misiones C

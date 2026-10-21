@@ -11,7 +11,7 @@ with st.expander("¿Cuántas filas y columnas tiene el dataset?"):
     
     
 nombres_ubic = felinos['stateProvince'].unique()
-cant_ubic = len(felinos['stateProvince'].unique())
+cant_ubic = felinos['stateProvince'].nunique()
 
 with st.expander("¿Cuántos son los valores únicos de la columna **stateProvince**?"):
     st.write(cant_ubic)
