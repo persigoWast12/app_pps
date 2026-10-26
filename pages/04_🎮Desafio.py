@@ -9,8 +9,8 @@ st.title("🎮 Juego de Preguntas")
 preguntas = [
     # ---------- Sección 1: Conociendo nuestros datos ----------
     {
-        "pregunta": "¿Cuántos valores únicos tiene la columna stateProvince?",
-        "opciones": ["17", "18"],
+        "pregunta": "¿Cuántas provincias tienen avistajes?",
+        "opciones": ["15", "13"],
         "correcta": 0
     },
     {
@@ -36,7 +36,7 @@ preguntas = [
         "correcta": 1
     },
     {
-        "pregunta": "¿Cuál es la tercera provincia con más avistamientos?",
+        "pregunta": "¿Cuál es la tercera provincia con más avistajes?",
         "opciones": ["Provincia de Corrientes", "Provincia de Buenos Aires"],
         "correcta": 0
     },
@@ -45,7 +45,7 @@ preguntas = [
     {
         "pregunta": "¿Cuántas provincias aparecen en el menú del mapa de pumas?",
         "opciones": ["15", "17"],
-        "correcta": 1
+        "correcta": 0
     },
     {
         "pregunta": "Si elegís Tucumán en el menú, ¿cuántos puntos rojos se ven en el mapa?",
