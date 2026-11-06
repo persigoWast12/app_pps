@@ -29,3 +29,7 @@ st.write(
     "Sirve para comprobar cuánto aprendiste, y no pasa nada si te equivocás: "
     "cada respuesta te dice si estuvo bien y, si no, cuál era la correcta. La idea es que te vayas con más conocimiento de cuando viniste."
 )
+st.divider()
+st.caption("Fuente: https://www.gbif.org/")
+# footer
+st.caption("© Aplicación hecha por Persigo Martin - Todos los derechos reservados")
