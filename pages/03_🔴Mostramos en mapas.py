@@ -10,7 +10,7 @@ felinos = pd.read_csv('felinos_filtrado.csv')
 #titulo
 st.title("🗺️ Mapa de avistamientos de puma")
 st.write("Como ya vimos, tenemos nuestros datos y una forma de manipularlos para entender que y cuantos son. En esta seccion tenemos otra forma más de manipularlos. Podemos hacer un mapa interactivo, donde podemos ver los avistajes del gene Puma por cada provincia.")
-st.image("./images/puma-2.jpg", caption=None, width='stretch')
+st.image("./images/puma-2.jpg", caption="https://es.wikipedia.org/wiki/Puma_concolor_couguar", width='stretch')
 
 #corrigiendo dataset | porque tiene error de tipeado en Neuquén y Santa Cruz
 felinos["stateProvince"] = felinos["stateProvince"].replace({
