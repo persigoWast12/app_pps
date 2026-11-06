@@ -6,7 +6,7 @@ felinos =  pd.read_csv('felinos_filtrado.csv')
 #titulo y header (cabecera)
 st.title("📖 Conociendo nuestros datos")
 st.write("Antes de empezar, hay que saber con qué datos estamos trabajando. En esta parte vemos cómo está armado la base de datos de los avistamientos de felinos: cuántas filas y columnas tiene, en cuántas provincias hubo avistamientos y cuáles son.")
-st.image("./images/puma.jpg", caption="https://www.istockphoto.com/es/fotos/chilean-cougar-puma-concolor", width='stretch')
+st.image("./images/puma.jpg", caption="Fuente: https://www.istockphoto.com/es/fotos/chilean-cougar-puma-concolor", width='stretch')
 st.header("📌 Información útil:")
 
 #le asigna a las variables filas y columnas las mismas del metodo shape
